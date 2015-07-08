@@ -1,2 +1,1 @@
 print "example"
-print "git"
